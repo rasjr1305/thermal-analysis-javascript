@@ -1,0 +1,26 @@
+{
+  "name": "thermal-analysis-javascript",
+  "version": "1.0.0",
+  "description": "Thermal Analysis using Javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasjr1305/thermal-analysis-javascript.git"
+  },
+  "keywords": [
+    "thermal",
+    "analysis",
+    "javascript",
+    "laplace"
+  ],
+  "author": "Romildo Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rasjr1305/thermal-analysis-javascript/issues"
+  },
+  "homepage": "https://github.com/rasjr1305/thermal-analysis-javascript#readme"
+}
