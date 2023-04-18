@@ -1,7 +1,7 @@
 import linSystemSolverJordan from "./solver.js";
 import fundamentalSolution from "./fundamentalSol.js";
 
-export function thermalRectangular(
+function thermalRectangular(
   el,
   x0,
   y0,
@@ -295,3 +295,5 @@ export function thermalRectangular(
 
   return solution;
 }
+
+export default thermalRectangular;

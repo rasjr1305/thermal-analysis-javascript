@@ -20,9 +20,7 @@ the package returns the values of temperature along the domain and boundary.
 //        ------1------
 //             t1,q1
 //
-
-import linSystemSolverJordan from "./solver.js";
-import fundamentalSolution from "./fundamentalSol.js";
+import thermalRectangular from "thermal-analysis-javascript";
 
 // INPUT TEMPERATURES OR FLUX ALONG THE BOUNDARIES
 // INPUT TEMPERATURES OR FLUX ALONG DOWN SIDE OF PLATE
