@@ -4,6 +4,7 @@ This is a package that allows users to simulate Laplace Thermal Rectangular Prob
 Javascript. Users need to input size of plate and boundary conditions, after calculation
 the package returns the values of temperature along the domain and boundary.
 
+```
 ////// SAMPLE USAGE
 //////////////////////////////////////////
 //*******RETANGULAR LAPLACE PROBLEMS SOLVER********//
@@ -89,3 +90,4 @@ let solution = thermalRectangular(
 );
 
 console.log(solution)
+```
